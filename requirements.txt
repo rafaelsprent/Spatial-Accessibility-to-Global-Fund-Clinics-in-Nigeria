@@ -7,7 +7,9 @@ rasterio
 networkx
 shapely
 requests
-osmx
+osmnx
 cartopy
 matplotlib
 requests
+openpyxl
+folium
