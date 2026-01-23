@@ -1,0 +1,15 @@
+pandas
+geopandas
+ee
+numpy
+fiona
+rasterio
+networkx
+shapely
+requests
+osmnx
+cartopy
+matplotlib
+requests
+openpyxl
+folium
